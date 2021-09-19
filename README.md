@@ -1,2 +1,2 @@
 # DeadlineAvoider
-![alt text](C:\Users\dishu\Downloads\dataScience.png)
+![alt text](https://github.com/[dishu5312]/[DeadlineAvoider]/blob/[master]/dataScience.png?raw=true)
